@@ -6,4 +6,4 @@ categories: python
 tags: python
 headImg: http://kangyu.我爱你:9000/public/images/family.jpg
 ---
-hello
+hello world
