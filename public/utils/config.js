@@ -1,4 +1,4 @@
 
 module.exports = {
-    server_url: 'http://localhost:9000'
+    server_url: 'http://kangyu.我爱你:9000'
 }
